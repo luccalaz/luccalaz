@@ -15,7 +15,7 @@ I'm a passionate and dedicated IT Web Programming student currently completing m
 
 ## 🚀 What I’m Working On
 
-- **Portfolio Website**: A dynamic and engaging portfolio built using WordPress, showcasing my projects and achievements.
+- **Portfolio Website**: A dynamic and engaging portfolio built using React, Next.JS, Tailwind CSS and MongoDB, showcasing my projects and achievements.
 - **Community Assistant Role**: Honing my interpersonal and leadership skills while supporting a diverse student community at NSCC.
 - **Coding Projects**: Continuing to improve my coding skills through real-world projects, like developing and deploying websites for clients.
 
