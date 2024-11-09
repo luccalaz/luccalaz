@@ -23,7 +23,7 @@ I'm a passionate and dedicated IT Web Programming student currently completing m
 
 ## 🎓 Education & Achievements
 
-- **IT Web Programming, NSCC**: Currently achieving a high academic performance with an average grade of 99.2% in my first semester.
+- **IT Web Programming, NSCC**: Currently achieving a high academic performance with an average grade of 98% in my first year.
 - **Codeflex Competition**: Secured 2nd place in NSCC's internal coding competition.
 - **EduNova Recognition**: Selected as one of the top 100 international students in Nova Scotia, recognized for academic excellence and leadership.
 
