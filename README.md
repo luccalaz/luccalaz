@@ -37,12 +37,6 @@ I'm a passionate and dedicated IT Web Programming student currently completing m
 
 ---
 
-## 📈 GitHub Stats
-
-![Lucca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccalaz&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - **LinkedIn**: [linkedin.com/in/luccalaz](https://www.linkedin.com/in/luccalaz)
