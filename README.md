@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Lucca Lazzarini Silva
+# Hi there, I'm Lucca! 👋 
 
 I'm a passionate and dedicated IT Web Programming student currently completing my second year at the Nova Scotia Community College (NSCC), Truro Campus. I started coding at 13 by developing Minecraft mods and minigames, and since then, my love for technology has grown into a journey filled with learning and innovation.
 
