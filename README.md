@@ -1,6 +1,6 @@
 # Hi there, I'm Lucca! 👋 
 
-I'm a passionate and dedicated final-year college student. I started coding at 13 by developing Minecraft mods and minigames, and since then, my love for technology has grown into a journey filled with learning and innovation.
+I'm a passionate and dedicated final-year college student. I started coding at 13 by developing Minecraft mods and minigames, and since then, my love for technology has only grown as I continued learning and explored new technologies.
 
 ---
 
