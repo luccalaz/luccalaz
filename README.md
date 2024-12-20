@@ -6,7 +6,7 @@ I'm a passionate and dedicated final-year college student. I started coding at 1
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, Java, JavaScript, TypeScript, HTML, CSS, C#, MySQL, MongoDB
+- **Languages**: Python, Java, JavaScript, TypeScript, C#, MySQL, MongoDB
 - **Frameworks & Tools**: React, Next.js, ASP.NET Core, Node.js, Docker
 - **Development**: Agile methodologies, Git & GitHub, DevOps practices, Apache, AWS
 - **Other**: Linux environments, JSON handling, Project Management
