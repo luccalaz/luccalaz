@@ -23,7 +23,7 @@ I'm a passionate and dedicated final-year college student. I started coding at 1
 
 ## 🎓 Education & Achievements
 
-- **IT Web Programming, NSCC**: Currently achieving a high academic performance with an average grade of 98% in my first year.
+- **IT Web Programming, NSCC**: Currently achieving a high academic performance with an average grade of 98%.
 - **Codeflex Competition**: Secured 2nd place in NSCC's internal coding competition.
 - **EduNova Recognition**: Selected as one of the top 100 international students in Nova Scotia, recognized for academic excellence and leadership.
 
