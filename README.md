@@ -15,7 +15,7 @@ I'm a passionate and dedicated Full-Stack Web Developer. I started coding at 13 
 
 ## 🚀 What I’m Working On
 
-- **Portfolio Website**: A dynamic and engaging portfolio built using React, Next.JS, Tailwind CSS and MongoDB, showcasing my projects and achievements.
+- **E-Sports Lounge Booking System**: A web app to be used by NSCC Truro Campus E-Sports Lounge that allows students and staff to book game stations and events in the lounge.
 - **Community Assistant Role**: Honing my interpersonal and leadership skills while supporting a diverse student community at NSCC.
 - **Coding Projects**: Continuing to improve my coding skills through real-world projects, like developing and deploying websites for clients.
 
