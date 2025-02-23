@@ -8,7 +8,7 @@ I'm a passionate and dedicated Full-Stack Web Developer. I started coding at 13 
 
 - **Languages**: Python, Java, JavaScript, TypeScript, C#, MySQL, MongoDB
 - **Frameworks & Tools**: React, Next.js, ASP.NET Core, Node.js, Docker
-- **Development**: Agile methodologies, Git & GitHub, DevOps practices, Apache, AWS
+- **Development**: Agile methodologies, Git & GitHub, Apache, AWS
 - **Other**: Linux environments, JSON handling, Project Management
 
 ---
