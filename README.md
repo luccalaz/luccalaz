@@ -40,6 +40,6 @@ I'm a passionate and dedicated Full-Stack Web Developer. I started coding at 13 
 ## 📫 Connect with Me
 
 - **LinkedIn**: [linkedin.com/in/luccalaz](https://www.linkedin.com/in/luccalaz)
-- **Email**: luccalaz@gmail.com
+- **Email**: luccalazza@gmail.com
 
 I’m always looking to collaborate on meaningful projects and learn from fellow developers. Feel free to reach out or explore my repositories to see what I’m up to!
