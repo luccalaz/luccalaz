@@ -8,16 +8,8 @@ I'm a passionate and dedicated Full-Stack Web Developer. I started coding at 13 
 
 - **Languages**: Python, Java, JavaScript, TypeScript, C#, MySQL, MongoDB
 - **Frameworks & Tools**: React, Next.js, ASP.NET Core, Node.js, Docker
-- **Development**: Agile methodologies, Git & GitHub, Apache, AWS
+- **Development**: Agile methodologies, Git & GitHub, Apache, AWS, Supabase
 - **Other**: Linux environments, JSON handling, Project Management
-
----
-
-## 🚀 What I’m Working On
-
-- **E-Sports Lounge Booking System**: A web app to be used by NSCC Truro Campus E-Sports Lounge that allows students and staff to book game stations and events in the lounge.
-- **Community Assistant Role**: Honing my interpersonal and leadership skills while supporting a diverse student community at NSCC.
-- **Coding Projects**: Continuing to improve my coding skills through real-world projects, like developing and deploying websites for clients.
 
 ---
 
@@ -31,8 +23,7 @@ I'm a passionate and dedicated Full-Stack Web Developer. I started coding at 13 
 
 ## 🌱 Goals
 
-- Graduate in May 2025 and start contributing to innovative projects as a software developer.
-- Enhance my back-end development skills and explore more cloud-based technologies.
+- Enhance my back-end development skills and explore more cloud-based technologies and AI.
 - Continue learning and adapting to become an asset to the tech community in Nova Scotia and beyond.
 
 ---
