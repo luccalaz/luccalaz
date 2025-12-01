@@ -6,16 +6,16 @@ I'm a passionate and dedicated Full-Stack Web Developer. I started coding at 13 
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, Java, JavaScript, TypeScript, C#, MySQL, MongoDB
+- **Languages**: JavaScript, TypeScript, Go, Python, Java, C#
 - **Frameworks & Tools**: React, Next.js, ASP.NET Core, Node.js, Docker
-- **Development**: Agile methodologies, Git & GitHub, Apache, AWS, Supabase
+- **Development**: Agile methodologies, Git & GitHub, Apache, AWS, Supabase, MySQL, MongoDB
 - **Other**: Linux environments, JSON handling, Project Management
 
 ---
 
 ## 🎓 Education & Achievements
 
-- **IT Web Programming, NSCC**: Currently achieving a high academic performance with an average grade of 98%.
+- **IT Web Programming, NSCC**: Achieved a high academic performance with an average grade of 98%.
 - **Codeflex Competition**: Secured 2nd place in NSCC's internal coding competition.
 - **EduNova Recognition**: Selected as one of the top 100 international students in Nova Scotia, recognized for academic excellence and leadership.
 
