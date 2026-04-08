@@ -1,36 +1,68 @@
-# Hi there, I'm Lucca! 👋 
+# Hi there, I'm Lucca 👋
 
-I'm a passionate and dedicated Full-Stack Web Developer. I started coding at 13 by developing Minecraft mods and minigames, and since then, my love for technology has only grown as I continued learning and explored new technologies.
+I'm a Full-Stack Software Developer based in Nova Scotia, Canada.
+
+I started programming at 13 by building Minecraft minigames and mods, which sparked my interest in software development and systems design. Since then, I've continued expanding my skills by building production web applications, AI-powered systems, and modern frontend experiences.
+
+Today I primarily work with **React, Next.js, TypeScript, and Node.js**, and I enjoy building scalable applications that combine strong user experience with solid backend architecture.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I Work With
 
-- **Languages**: JavaScript, TypeScript, Go, Python, Java, C#
-- **Frameworks & Tools**: React, Next.js, ASP.NET Core, Node.js, Docker
-- **Development**: Agile methodologies, Git & GitHub, Apache, AWS, Supabase, MySQL, MongoDB
-- **Other**: Linux environments, JSON handling, Project Management
+**Languages**
+- JavaScript
+- TypeScript
+- Go
+- Python
+
+**Frameworks & Technologies**
+- React
+- Next.js
+- Node.js
+- Docker
+
+**Infrastructure & Tools**
+- AWS
+- Supabase
+- PostgreSQL
+- MongoDB
+
+**Other Areas of Interest**
+- AI / LLM integrations
+- Backend architecture
+- Cloud systems
+
+---
+
+## 🧠 What I'm Interested In
+
+Recently I've been exploring and building systems involving:
+
+- **AI integrations** (LLMs, embeddings, semantic search)
+- **Real-time web applications**
+- **Scalable backend architectures**
+- **Modern full-stack development**
+
+I enjoy designing systems that combine **clean architecture, automation, and strong developer experience.**
 
 ---
 
 ## 🎓 Education & Achievements
 
-- **IT Web Programming, NSCC**: Achieved a high academic performance with an average grade of 98%.
-- **Codeflex Competition**: Secured 2nd place in NSCC's internal coding competition.
-- **EduNova Recognition**: Selected as one of the top 100 international students in Nova Scotia, recognized for academic excellence and leadership.
+**IT Web Programming — Nova Scotia Community College**
+
+- Graduated with **98% average (Honours)**
+- **2nd place — NSCC Codeflex Programming Challenge**
+- **EduNova Top 100 International Students in Nova Scotia**
 
 ---
 
-## 🌱 Goals
+## 📫 Connect With Me
 
-- Enhance my back-end development skills and explore more cloud-based technologies and AI.
-- Continue learning and adapting to become an asset to the tech community in Nova Scotia and beyond.
+- LinkedIn: https://linkedin.com/in/luccalaz  
+- Email: luccalazza@gmail.com
 
 ---
 
-## 📫 Connect with Me
-
-- **LinkedIn**: [linkedin.com/in/luccalaz](https://www.linkedin.com/in/luccalaz)
-- **Email**: luccalazza@gmail.com
-
-I’m always looking to collaborate on meaningful projects and learn from fellow developers. Feel free to reach out or explore my repositories to see what I’m up to!
+⭐ Feel free to explore my repositories to see what I'm working on.
